@@ -14,13 +14,10 @@ guess.
 
 ---
 
-###  Right now
 
-- 💼 **Software Developer Intern** @ Sapot Systems Inc. — SQL/PL-SQL, .NET, PHP, data integration
-- 🎓 **M.S. Data Science**, University of Massachusetts Dartmouth (conferred Jan 2026, GPA 3.34/4.0)
-- 📍 New Bedford, MA
-- 🟢 **Open to Data Scientist / Data Analyst / ML Engineer roles** — [LinkedIn](https://linkedin.com/in/varunkumar) · call4vk@gmail.com
-- 🌱 Currently building toward Spark/distributed processing and agentic LLM systems
+-  **M.S. Data Science**, University of Massachusetts Dartmouth (conferred Jan 2026, GPA 3.34/4.0)
+-  New Bedford, MA
+-  **Open to Data Scientist / Data Analyst / ML Engineer roles** — [LinkedIn](https://linkedin.com/in/varunkumar) · call4vk@gmail.com
 
 ---
 
@@ -93,11 +90,6 @@ across two democracies — actor-network centrality, escalation-path
 modeling, DBSCAN geo-clustering.
 
 ---
-
-###  GitHub activity
-
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunkumaruppula&show_icons=true&theme=tokyonight&hide_border=true)
-
 ---
 
 ### 📫 Let's talk
