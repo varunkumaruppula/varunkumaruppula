@@ -14,10 +14,13 @@ guess.
 
 ---
 
+###  Right now
 
+-  **Software Developer Intern** @ Sapot Systems Inc. — SQL/PL-SQL, .NET, PHP, data integration
 -  **M.S. Data Science**, University of Massachusetts Dartmouth (conferred Jan 2026, GPA 3.34/4.0)
 -  New Bedford, MA
--  **Open to Data Scientist / Data Analyst / ML Engineer roles** — [LinkedIn](https://linkedin.com/in/varunkumar) · call4vk@gmail.com
+-  **Open to Data Scientist / Data Analyst / ML Engineer roles** — [LinkedIn](https://www.linkedin.com/in/varun-kumar-uppula-559b031a1) · call4vk@gmail.com
+-  Currently building toward Spark/distributed processing and agentic LLM systems
 
 ---
 
@@ -75,24 +78,22 @@ laptop with zero paid APIs. Eight documented bugs found and fixed,
 including a 45x model bias traced to a single feature and a false drift
 alarm traced to a calendar-windowing artifact.
 
-** Human Disease Prediction from Tongue Images** *(solo capstone)*
+** Human Disease Prediction from Tongue Images** *(solo capstone — repo coming soon)*
 Two transfer-learning CNNs — ResNet50 (PyTorch) for diabetes, MobileNetV2
 (TensorFlow/Keras) for oral cancer — deployed behind a Flask app with auth
 and a SQLite-backed prediction history.
 
-** Real-Time Social Media Sentiment Pipeline** *(AWS)*
+** Real-Time Social Media Sentiment Pipeline** *(AWS — repo coming soon)*
 Serverless sentiment analysis on Kinesis, Lambda, and Comprehend, built to
 replace a 24-hour batch ETL process with sub-minute latency.
 
-** Comparative Protest-Pattern Analysis: U.S. vs. India*
+** Comparative Protest-Pattern Analysis: U.S. vs. India** *(repo coming soon)*
 Time-series, network, and geospatial analysis of ACLED conflict-event data
 across two democracies — actor-network centrality, escalation-path
 modeling, DBSCAN geo-clustering.
 
----
----
 
-### 📫 Let's talk
+###  Let's talk
 
-[LinkedIn](https://linkedin.com/in/varunkumar) · call4vk@gmail.com — open
+[LinkedIn](https://www.linkedin.com/in/varun-kumar-uppula-559b031a1) · call4vk@gmail.com — open
 to Data Scientist, Data Analyst, and ML Engineer roles.
