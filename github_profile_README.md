@@ -94,9 +94,6 @@ modeling, DBSCAN geo-clustering.
 
 ---
 
-###  GitHub activity
-
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunkumaruppula&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
