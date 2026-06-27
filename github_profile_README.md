@@ -1,4 +1,4 @@
-# Hi, I'm Varun 
+# Hi, I'm Varun kumar uppula
 
 Data Scientist with an M.S. in Data Science from UMass Dartmouth, currently
 building production software by day and tearing my own ML/LLM projects
