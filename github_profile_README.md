@@ -47,7 +47,7 @@ guess.
 |---|---|
 | **M.S., Data Science** | University of Massachusetts Dartmouth — Jan 2026 |
 | **B.E., Computer Science & Engineering** | Sathyabama Institute of Science and Technology — 2021 |
-| **Data Analyst** | Vedanta Metal — Aug 2022 to Aug 2023 (Excel, SQL, Tableau, KPI reporting) |
+| **Data Analyst** | Vedanta Metal — June 2020 to Aug 2023 (Excel, SQL, Tableau, KPI reporting) |
 | **Software Developer Intern** | Sapot Systems Inc. — May 2026 to Present (SQL/PL-SQL, .NET, PHP) |
 
 ---
@@ -92,6 +92,13 @@ Time-series, network, and geospatial analysis of ACLED conflict-event data
 across two democracies — actor-network centrality, escalation-path
 modeling, DBSCAN geo-clustering.
 
+---
+
+###  GitHub activity
+
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunkumaruppula&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
 
 ###  Let's talk
 
