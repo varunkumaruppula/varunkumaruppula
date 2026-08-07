@@ -1,47 +1,48 @@
-# Hi, I'm Varun Kumar Uppula
+# Hi, I'm Varun 👋
 
-Data Scientist / Data Analyst with end-to-end experience across the data science lifecycle — data engineering, statistical analysis, machine learning, causal inference, and production deployment. Based in New Bedford, MA.
+Data Scientist / Data Analyst — causal inference, uplift modeling, and production ML.
 
 ## About Me
 
-- M.S. in Data Science, University of Massachusetts Dartmouth (Conferred January 2026)
-- Currently a Software Developer Intern at Sapot Systems Inc., working on SQL/PL-SQL, .NET, and PHP for reporting and business system integrations
-- Previously spent three years as the sole data analyst at Vedanta Metal (steel manufacturing), owning the entire analytics function from the ground up — KPI dashboards, root-cause analysis, and quality/production reporting
-- Authorized to work in the U.S. under F-1 OPT (Optional Practical Training)
-
-## What I'm Focused On
-
-- Causal inference and uplift modeling — propensity scores, inverse probability weighting, doubly robust (AIPW) estimation, X-learner and T-learner meta-learning
-- Model explainability with SHAP, and probability calibration (Platt scaling, isotonic regression)
-- MLOps — experiment tracking with MLflow, production model deployment with FastAPI and Docker
-- Analytics engineering — version-controlled dbt pipelines on large cloud data warehouses (BigQuery, DuckDB)
-
-## Tech Stack
-
-- **Languages:** Python, SQL, PL/SQL, R, C, DAX
-- **Machine Learning:** XGBoost, LightGBM, scikit-learn, SHAP, causalml, Optuna, GridSearchCV
-- **Deep Learning:** PyTorch, TensorFlow, Keras, OpenCV
-- **Data Engineering:** dbt Core, Apache Kafka, Docker, Great Expectations
-- **Cloud & Warehousing:** Google BigQuery, DuckDB, AWS (S3, Lambda, Kinesis, Comprehend), Microsoft Azure
-- **BI & Visualization:** Power BI, Tableau, Streamlit, Excel, Matplotlib, Seaborn
-- **MLOps & Deployment:** FastAPI, MLflow, Docker, Pydantic, pytest
-- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+- 🎓 M.S. in Data Science, University of Massachusetts Dartmouth (conferred January 2026)
+- 💼 Software Developer Intern @ Sapot Systems — building cardmember attrition & churn models for a client engagement with American Express
+- 🏭 Three years as the sole data analyst at a steel manufacturer — built KPI dashboards, demand forecasting, and a pricing strategy from scratch, no framework to inherit
+- 🔍 Focused on separating real causal impact from correlation: propensity scores, inverse probability weighting, doubly robust (AIPW) estimation, uplift modeling (T-learner / X-learner), Qini curve analysis
+- 🧪 Rigorous about experimentation — power analysis, pre-registered hypotheses, and quantifying the real cost of peeking early (false-positive rate inflates from 5% → 25.9%)
 
 ## Featured Projects
 
-- **Customer Retention Decision Intelligence System** — LightGBM model tuned with Optuna, a full causal inference ladder (propensity scores, IPW, doubly robust AIPW), and uplift modeling with Qini-curve evaluation, deployed via a combined-model FastAPI service with MLflow experiment tracking.
-- **Customer Churn Prediction & Retention Intervention Analysis** — XGBoost classifier with SHAP explainability and causal inference (X-learner) on a real randomized controlled trial dataset, deployed as a production FastAPI service with drift monitoring.
-- **Analytics Engineering: dbt on Google BigQuery** — Version-controlled dbt project on a 34-million-row dataset with automated data quality tests and auto-generated lineage documentation.
-- **NYC Taxi Anomaly Detection Engine** — Unsupervised anomaly detection on 2.83 million real trip records using Isolation Forest, with a 7-tab Streamlit dashboard powered by a local LLM.
-- **Portfolio RAG** — Retrieval-Augmented Generation question-answering system over project documentation using ChromaDB and a local LLM.
+**[Customer Retention Decision Intelligence System](#)**
+LightGBM + Optuna churn model (PR-AUC 0.843, 13.6x lift on top 5% risk), full causal inference pipeline (propensity scores, IPW, doubly robust AIPW), T-learner uplift model validated with Qini curves, MLflow tracking, 15 pytest tests, combined-model FastAPI service.
+`Python` `LightGBM` `Optuna` `causalml` `MLflow` `FastAPI` `SHAP`
 
-## Education
+**[Customer Churn Prediction & Retention Intervention Analysis](#)**
+XGBoost churn model tuned via GridSearchCV, SHAP explainability, X-learner heterogeneous treatment effect analysis on a real 64,000-customer randomized controlled trial, PSI drift monitoring, deployed as a FastAPI service.
+`Python` `SQL` `DuckDB` `XGBoost` `causalml` `FastAPI`
 
-- M.S. in Data Science — University of Massachusetts Dartmouth (Conferred January 2026)
-- B.E., Computer Science and Engineering — Sathyabama Institute of Science and Technology (2021)
+**[A/B Testing & Causal Measurement Framework](#)**
+Full experimentation pipeline — power analysis for sample sizing, pre-registered hypothesis, confirmatory test with confidence intervals. Simulated 2,000 null-effect tests to quantify how premature peeking inflates false positives.
+`Python` `SciPy` `statsmodels` `pandas`
 
-## Connect With Me
+**[NYC Taxi Anomaly Detection Engine](#)**
+Isolation Forest anomaly detection on 2.83M real NYC taxi trips (~70% more true anomalies caught than a z-score baseline), 7-tab Streamlit dashboard with a local LLM (Ollama) for natural-language queries — runs entirely on an 8GB laptop, no paid APIs.
+`Python` `DuckDB` `scikit-learn` `SHAP` `Streamlit` `Ollama`
 
-- Email: [call4vk@gmail.com](mailto:call4vk@gmail.com)
-- LinkedIn: [linkedin.com/in/varun-kumar-uppula-559b031a1](https://www.linkedin.com/in/varun-kumar-uppula-559b031a1)
-- GitHub: [github.com/varunkumaruppula](https://github.com/varunkumaruppula)
+**[Analytics Engineering: dbt on BigQuery (34M rows)](#)**
+Version-controlled dbt project — staging/mart models, automated data-quality tests, auto-generated lineage. Caught a real production defect: a uniqueness constraint failure traced to 14 years of entity-name drift.
+`dbt Core` `Google BigQuery` `SQL`
+
+*(Replace the `#` links above with your actual repo URLs.)*
+
+## Tech Stack
+
+**Languages & Query:** Python · SQL · PL/SQL · R
+**ML & Causal Inference:** XGBoost · LightGBM · scikit-learn · SHAP · causalml · uplift modeling · propensity scores
+**Data & Pipelines:** dbt Core · Google BigQuery · Databricks · Snowflake · DuckDB
+**MLOps & Deployment:** MLflow · FastAPI · Docker · pytest
+**BI & Visualization:** Tableau · Power BI · Streamlit · Plotly
+
+## Let's Connect
+
+📫 call4vk@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/varun-kumar-uppula-559b031a1)
