@@ -13,7 +13,7 @@ call4vk@gmail.com
 
 - 🎓 M.S. in Data Science, University of Massachusetts Dartmouth (conferred January 2026) · B.E. in Computer Science and Engineering, Sathyabama Institute of Science and Technology (2021)
 - 💼 Software Developer Intern @ Sapot Systems — selected for a client-facing engagement with American Express based on direct skill match, building cardmember attrition & churn models (Logistic Regression, Random Forest, XGBoost, Gradient Boosting, SHAP, A/B-tested retention offers)
-- 🏭 Five-plus years (Feb 2018 – Aug 2023) as the sole data analyst at a steel manufacturer — built the entire reporting function from nothing: SQL reports, Tableau dashboards, a KPI framework across production/quality/maintenance/supply chain, and a pricing strategy that drove an 8%+ profit margin improvement
+- 🏭 Five-plus years as the sole data analyst at a steel manufacturer — built the entire reporting function from nothing: SQL reports, Tableau dashboards, a KPI framework across production/quality/maintenance/supply chain, and a pricing strategy that drove an 8%+ profit margin improvement
 - 🔍 Focused on separating real causal impact from correlation: propensity scores, inverse probability weighting, doubly robust (AIPW) estimation, uplift modeling (T-learner / X-learner), Qini curve analysis
 - 🧪 Rigorous about experimentation — power analysis, pre-registered hypotheses, and quantifying the real cost of peeking early (false-positive rate inflates from 5% → 25.9%)
 - 🤖 Use Claude, ChatGPT, and Gemini daily to move faster — verify everything before trusting it, never skip the test
