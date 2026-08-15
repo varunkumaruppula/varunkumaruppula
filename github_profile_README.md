@@ -1,11 +1,18 @@
-# Hi, I'm Varun 👋
+<h1 align="center">Hi, I'm Varun Kumar Uppula 👋</h1>
+<h3 align="center">Data Scientist / Data Analyst — Causal Inference, Uplift Modeling, MLOps, and End-to-End Production ML</h3>
 
-Data Scientist / Data Analyst — causal inference, uplift modeling, MLOps, and end-to-end production ML.
+<p align="center">
+M.S. Data Science, UMass Dartmouth &nbsp;|&nbsp; New Bedford, MA &nbsp;|&nbsp;
+<a href="https://linkedin.com/in/varun-kumar-uppula-559b031a1">LinkedIn</a> &nbsp;|&nbsp;
+call4vk@gmail.com
+</p>
+
+---
 
 ## About Me
 
 - 🎓 M.S. in Data Science, University of Massachusetts Dartmouth (conferred January 2026) · B.E. in Computer Science and Engineering, Sathyabama Institute of Science and Technology (2021)
-- 💼 Software Developer Intern @ Sapot Systems — building cardmember attrition & churn models for a client engagement with American Express (Logistic Regression, Random Forest, XGBoost, Gradient Boosting, SHAP, A/B-tested retention offers)
+- 💼 Software Developer Intern @ Sapot Systems — selected for a client-facing engagement with American Express based on direct skill match, building cardmember attrition & churn models (Logistic Regression, Random Forest, XGBoost, Gradient Boosting, SHAP, A/B-tested retention offers)
 - 🏭 Three years as the sole data analyst at a steel manufacturer — built the entire reporting function from nothing: SQL reports, Tableau dashboards, a KPI framework across production/quality/maintenance/supply chain, and a pricing strategy that drove an 8%+ profit margin improvement
 - 🔍 Focused on separating real causal impact from correlation: propensity scores, inverse probability weighting, doubly robust (AIPW) estimation, uplift modeling (T-learner / X-learner), Qini curve analysis
 - 🧪 Rigorous about experimentation — power analysis, pre-registered hypotheses, and quantifying the real cost of peeking early (false-positive rate inflates from 5% → 25.9%)
@@ -87,3 +94,7 @@ Two transfer-learning CNNs (ResNet50 for diabetes screening, MobileNetV2 for ora
 
 📫 call4vk@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/varun-kumar-uppula-559b031a1)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=varunkumaruppula&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
